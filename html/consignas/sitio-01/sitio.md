@@ -1,14 +1,48 @@
 # Sitio
 
-Crear un documento que tenga:
+Crear una carpeta:
+* Nombre: sitio01
+
+Crear las siguientes carpetas dentro de la carpeta sitio01:
+	* Pokedex
+	  * Nombre de archivo: index.html
+	* Aplicaciones
+	  * Nombre de archivo: index.html
+	* Tv Pokémon
+	  * Nombre de archivo: index.html
+
+## index.html
+Crear el indice de nuestro sitio:
 * Nombre: index.html
 * Title: El sitio web oficial de Pokémon
-* Lista de de links
-    - Inicio: debe llevar a la misma página
-    - Pokedex: tiene que tener la misma lista de links
-               
+* Crear una lista de hipervínculos: 
+   * Crear un hipervínculo para recargar la misma página
+   * Agregar el texto 'Inicio' al hipervínculo
+   * Crear un hipervinculo para vincular con la carpeta Pokedex
+   * Agregar el texto 'Pokedex' al hipervinculo
+   * Crear un hipervinculo para vincular con la carpeta Aplicaciones
+   * Agregar el texto 'Aplicaciones' al hipervinculo
+* Crear una linea
+* Crear un título H1 con el text 'Sitio web de Pokémon'	
+* Incluir las 3 imágenes de la carpeta images con su subtitulo correspondiente
 
-
-**Pokedex**
+##Pokedex
 * Nombre: index.html
-* Title: El sitio web oficial de Pokémon
+* Title: Pokédex | Pokemon.com
+* Crear una lista de hipervínculos: 
+   * Crear un hipervínculo para vincular con el indice del sitio
+   * Agregar el texto 'Inicio' al hipervínculo
+   * Crear un hipervinculo para recargar la misma página
+   * Agregar el texto 'Pokedex' al hipervinculo
+   * Crear un hipervinculo para vincular con la carpeta Aplicaciones
+   * Agregar el texto 'Aplicaciones' al hipervinculo
+* Crear una linea
+* Crear un título H2 con el texto 'Pokédex'
+* Crear una lista de imágenes con 2 evoluciones de Pokémons
+
+##Aplicaciones	
+* Nombre: index.html
+* Title: Pokémon HOME | Pokemon.com
+* Simularemos la sección real de Pokemon Home (https://www.pokemon.com/el/app/pokemon-home/)
+
+
