@@ -28,7 +28,7 @@ Crear el indice de nuestro sitio:
 * Crear un título H1 con el text 'Sitio web de Pokémon'	
 * Incluir las 3 imágenes de la carpeta images con su subtitulo correspondiente
 
-##Pokedex
+## Pokedex
 * Nombre: index.html
 * Title: Pokédex | Pokemon.com
 * Crear una lista de hipervínculos: 
@@ -44,7 +44,7 @@ Crear el indice de nuestro sitio:
 * Crear un título H2 con el texto 'Pokédex'
 * Crear una lista de imágenes con 2 evoluciones de Pokémons
 
-##Aplicaciones	
+## Aplicaciones	
 * Nombre: index.html
 * Title: Pokémon HOME | Pokemon.com
 * Crear una lista de hipervínculos: 
@@ -58,9 +58,9 @@ Crear el indice de nuestro sitio:
    * Agregar el texto 'Aplicaciones' al hipervinculo
 * Crear una linea
 * Crear un título H2 con el texto 'Pokémon Home’	
-* Simularemos la sección real de Pokemon Home (https://www.pokemon.com/el/app/pokemon-home/)
+* Simularemos la sección de Pokemon Home(https://www.pokemon.com/el/app/pokemon-home/). En la carpeta de imaǵenes tienen todo lo que necesitan y una foto de la sección.
 
-##Tv Pokémon
+## Tv Pokémon
 * Nombre: index.html
 * Title: TV Pokémon | Pokemon.com
 * Crear una lista de hipervínculos: 
