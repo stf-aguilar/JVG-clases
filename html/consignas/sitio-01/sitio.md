@@ -4,12 +4,12 @@ Crear una carpeta:
 * Nombre: sitio01
 
 Crear las siguientes carpetas dentro de la carpeta sitio01:
-	* Pokedex
-	  * Nombre de archivo: index.html
-	* Aplicaciones
-	  * Nombre de archivo: index.html
-	* Tv Pokémon
-	  * Nombre de archivo: index.html
+* Pokedex
+   * Nombre de archivo: index.html
+* Aplicaciones
+   * Nombre de archivo: index.html
+* Tv Pokémon
+   * Nombre de archivo: index.html
 
 ## index.html
 Crear el indice de nuestro sitio:
