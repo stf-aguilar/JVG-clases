@@ -1,4 +1,4 @@
-# Sitio
+# Sitio (simularemos el sitio (https://www.pokemon.com/el/))
 
 Crear una carpeta:
 * Nombre: sitio01
