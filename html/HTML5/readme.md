@@ -60,5 +60,5 @@
 [Ejercicio sitio01](../consignas/sitio01_html5)
 
 * Referencias 
-[HTML Semántico](https://curriculum.laboratoria.la/es/topics/html/02-html5/02-semantic-html)
+[HTML Semántico](https://curriculum.laboratoria.la/es/topics/html/02-html5/02-semantic-html)<br>
 [HTML en 15 minutos](https://www.freecodecamp.org/espanol/news/aprende-las-bases-de-html-para-principiantes-en-solo-15-minutos/)
