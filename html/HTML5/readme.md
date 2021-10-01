@@ -56,5 +56,9 @@
 
 * Para más información podes leer la siguiente guía de [HTML5 en el MDN](https://developer.mozilla.org/es/docs/Sections_and_Outlines_of_an_HTML5_document)
 
-[Ejercicio CV](../consignas/ejhtml5.md)
+[Ejercicio CV](../consignas/ejhtml5.md)<br>
 [Ejercicio sitio01](../consignas/sitio01_html5)
+
+* Referencias 
+[HTML Semántico](https://curriculum.laboratoria.la/es/topics/html/02-html5/02-semantic-html)
+[HTML en 15 minutos](https://www.freecodecamp.org/espanol/news/aprende-las-bases-de-html-para-principiantes-en-solo-15-minutos/)
