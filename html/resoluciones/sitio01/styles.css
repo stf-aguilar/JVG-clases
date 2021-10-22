@@ -1,0 +1,11 @@
+/* Reglas CSS */
+
+*{
+    margin:0;
+    padding:0;
+}
+
+div#container{
+    background-image: url('img/fondo.jpg');
+    background-size: cover;
+}
