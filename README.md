@@ -4,4 +4,4 @@
 
 **Jueves**
 - [21/10](https://codesandbox.io/s/especificidad-rvpc0) 
-- [21/10](- [21/10](https://codesandbox.io/s/especificidad-rvpc0) ) 
+- [21/10](https://codesandbox.io/s/especificidad-rvpc0)
