@@ -5,7 +5,25 @@
     padding:0;
 }
 
-div#container{
-    background-image: url('img/fondo.jpg');
-    background-size: cover;
+#container{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    height:100vh;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+
+}
+
+div.titulo{
+    text-align: center;
+}
+
+section{
+    display: flex;
+    justify-content: space-around;
 }
